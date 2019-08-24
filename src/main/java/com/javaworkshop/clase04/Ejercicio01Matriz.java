@@ -1,7 +1,13 @@
-package com.javataller.clase04;
+package com.javaworkshop.clase04;
 
 import java.util.Scanner;
 
+/**
+ * Ejercicio 01: Llenar una matriz de dos dimensiones
+ * 
+ * @author serdeliverance
+ *
+ */
 public class Ejercicio01Matriz {
 
 	public static void main(String[] args) {

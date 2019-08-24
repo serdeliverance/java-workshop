@@ -1,4 +1,4 @@
-package com.javataller;
+package com.javaworkshop;
 
 /**
  * Hello world!

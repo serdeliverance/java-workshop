@@ -1,4 +1,4 @@
-package com.javataller.clase03;
+package com.javaworkshop.clase03;
 
 import java.util.Scanner;
 

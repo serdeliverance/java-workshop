@@ -1,4 +1,4 @@
-package com.javataller.clase02;
+package com.javaworkshop.clase02;
 
 public class Primeros10Numeros {
 
